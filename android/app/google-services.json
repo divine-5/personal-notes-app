@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541871876504",
+    "project_id": "personal-notes-divine-2026",
+    "storage_bucket": "personal-notes-divine-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541871876504:android:4c8b17a29e2d39d41363ed",
+        "android_client_info": {
+          "package_name": "com.example.personal_notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjMXkLSfXMarpYSBo9eNyGhEyTIb2smEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
